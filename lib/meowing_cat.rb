@@ -8,6 +8,6 @@ class Cat
  
 end
 maru = Cat.new
-maru.name = "Meow"
+maru.name = "Maru"
 maru.name
-maru.meow
+puts "Meow"
