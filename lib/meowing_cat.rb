@@ -1,1 +1,4 @@
-## code your solution here. 
+def class
+  
+  
+end
