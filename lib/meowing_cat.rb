@@ -1,4 +1,4 @@
-def class
+class cat
   
   
 end
