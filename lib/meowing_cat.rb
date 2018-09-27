@@ -10,3 +10,4 @@ end
 maru = Cat.new
 maru.name = "Meow"
 maru.name
+maru.meow
