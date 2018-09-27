@@ -7,6 +7,6 @@ class Cat
   attr_accessor :Cat
  
 end
-cat = Person.new
-cat.name = "Shawn Carter"
-jay_z.name
+cat = Cat.new
+cat.name = Meow"
+cat.name
