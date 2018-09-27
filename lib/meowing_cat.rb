@@ -1,12 +1,12 @@
 class Cat
-  attr_writer :cat
-  attr_reader :cat
+  attr_writer :name
+  attr_reader :name
   
 end
 class Cat
-  attr_accessor :Cat
+  attr_accessor :name
  
 end
-cat = Cat.new
-cat.name = Meow"
-cat.name
+maru = Cat.new
+maru.name = "Meow"
+maru.name
