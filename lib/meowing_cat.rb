@@ -11,6 +11,5 @@ end
 maru = Cat.new
 maru.name = "Maru"
 maru.name
-maru
 maru.meow = "meow!"
-maru.mewo
+maru.meow
